@@ -57,10 +57,10 @@ The project addresses the following key questions:
 - **Model Performance**:
   | Model | Accuracy |
   |-------------|---------|
-  | DummyClassifier | 50.00% |
-  | Logistic Regression | 79.88% |
-  | Decision Tree | 90.60% |
-  | Random Forest | 94.82% |
+  | DummyClassifier | 49.35 |
+  | Logistic Regression | 82.78% |
+  | Decision Tree | 89.87%|
+  | Random Forest | 94.65%|
 
 - **Class Prediction**: The Random Forest model demonstrated balanced performance in predicting both high-quality and low-quality wines, maintaining high precision, recall, and F1 scores across both classes.
 
