@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores different machine learning algorithms to predict wine quality based on physicochemical properties. Traditional wine quality assessment is an expensive and time-consuming process that requires human expertise. This project aims to develop a data-driven approach that is both cost-effective and accurate.
 
-The model achieved a maximum accuracy of **94.82%** using the Random Forest classifier, demonstrating the effectiveness of machine learning in predicting wine quality.
+The model achieved a maximum accuracy of **94.65%** using the Random Forest classifier, demonstrating the effectiveness of machine learning in predicting wine quality.
 
 ## Dataset
 The analysis uses the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality) from UCI, which consists of variants of Portuguese "vinho verde" wine. The dataset includes:
