@@ -74,8 +74,4 @@ The project addresses the following key questions:
 - matplotlib
 - seaborn
 
-## References
-1. Laughter, A., Omari, S. (2020). A Study of Modeling Techniques for Prediction of Wine Quality.
-2. Chhikara, S., Bansal, P., Malik, K. (2023). Wine Quality Prediction Using Machine Learning Techniques.
-3. G. Hu, T. Xi, F. Mohammed and H. Miao (2016). Classification of wine quality with imbalanced data.
-4. Mahima, Gupta, U., Patidar, Y., Agarwal, A., Singh, K.P. (2020). Wine Quality Analysis Using Machine Learning Algorithms.
+
